@@ -1,0 +1,6 @@
+{
+  "sqlite_foraging": {
+    "dbdir": ".",
+    "database": "foraging",
+    "scheme": "sqlite" }
+}
